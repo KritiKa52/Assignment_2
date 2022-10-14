@@ -1,0 +1,18 @@
+
+
+/* Desktop */
+@media (min-width: 375px) and (max-width: 640px) {
+   body{
+      width: auto;
+   }
+}
+@media (min-width: 640px) and (max-width: 1250px) {
+   body{
+      width: auto;
+   }
+}
+@media (min-width: 1280px) {
+   body{
+      width: auto;
+   }
+}
